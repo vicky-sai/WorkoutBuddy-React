@@ -1,0 +1,195 @@
+{
+  "buddies": [
+    {
+      "id": 1,
+      "name": "Subiksha",
+      "userName": "sairam",
+      "passWord": "shirdi",
+      "location": "Chennai",
+      "phoneNumber": "789654123",
+      "buddiesList": [
+        2
+      ],
+      "workOuts": [
+        {
+          "details": "First post",
+          "date": "29-03-1998",
+          "scope": "public",
+          "likes": 49,
+          "dislikes": 34,
+          "comments": [
+            "Good",
+            "Super",
+            "Awesome",
+            "Great",
+            "tghhwjrfnho",
+            "wow super great",
+            "wow super great",
+            "Vicky-1"
+          ]
+        },
+        {
+          "details": "Super ",
+          "date": "09-03-2018",
+          "scope": "public",
+          "likes": 36,
+          "dislikes": 31,
+          "comments": [
+            "Good",
+            "Subhi - 2"
+          ]
+        },
+        {
+          "details": "Going to goa",
+          "date": "2019-08-15",
+          "scope": "public",
+          "likes": 9,
+          "dislikes": 2,
+          "comments": [
+            "Vicky-1",
+            {
+              "0": "V",
+              "1": "i",
+              "2": "c",
+              "3": "k",
+              "4": "y",
+              "5": "-",
+              "6": "1",
+              "comment": "Vicky-1"
+            }
+          ]
+        },
+        {
+          "details": "Going to goa beach",
+          "date": "2019-08-15",
+          "scope": "",
+          "likes": 1,
+          "dislikes": 0,
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vicky",
+      "userName": "saibaba",
+      "passWord": "parthi",
+      "location": "Coimbatore",
+      "phoneNumber": "8752033697",
+      "buddiesList": [
+        3,
+        2
+      ],
+      "workOuts": [
+        {
+          "details": "Celebrations",
+          "date": "17-05-2015",
+          "scope": "public",
+          "likes": 46,
+          "dislikes": 40,
+          "comments": [
+            "Happy",
+            "Great",
+            "Me too..!",
+            "Great",
+            "Great"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Thiru",
+      "userName": "madurai@gmail.com",
+      "passWord": "vandu",
+      "location": "Madurai",
+      "phoneNumber": "9566947856",
+      "buddiesList": [
+        1,
+        2
+      ],
+      "workOuts": [
+        {
+          "details": "School day",
+          "date": "17-05-2018",
+          "scope": "public",
+          "likes": 8,
+          "dislikes": 31,
+          "comments": [
+            "Happy",
+            "Great"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rashmika",
+      "userName": "rashmika@gmail.com",
+      "passWord": "sollaMudiyadhu",
+      "location": "Chennai",
+      "phoneNumber": "985687412",
+      "buddiesList": [],
+      "workOuts": [
+        {
+          "details": "At Verizon",
+          "date": "15-03-2004",
+          "scope": "private",
+          "likes": 36,
+          "dislikes": 31,
+          "comments": [
+            "Good",
+            "Great job"
+          ]
+        },
+        {
+          "details": "Going to China",
+          "date": "2019-08-05",
+          "scope": "public",
+          "likes": 6,
+          "dislikes": 6,
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Prasanth",
+      "userName": "prashanth21081997@gmail.com",
+      "passWord": "IloveIndia",
+      "location": "Kanchipuram",
+      "phoneNumber": "86520741",
+      "buddiesList": [],
+      "workOuts": [
+        {
+          "details": "Just for fun bro..!",
+          "date": "2019-08-07",
+          "scope": "private",
+          "likes": 1,
+          "dislikes": 0,
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Shubam",
+      "userName": "kandwal@gmail.com",
+      "passWord": "kandwal@gmail.com",
+      "location": "Culcatta",
+      "phoneNumber": "684151516",
+      "buddiesList": [],
+      "workOuts": []
+    },
+    {
+      "id": 7,
+      "name": "Anirudh",
+      "userName": "prince@gmail.cxom",
+      "passWord": "prince@gmail.cxom",
+      "location": "canberra",
+      "phoneNumber": "6874163",
+      "buddiesList": [],
+      "workOuts": []
+    }
+  ]
+}
